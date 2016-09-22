@@ -1,4 +1,5 @@
-Usage
+#Usage
+Your process will respond with status 200 and 'OK' body in order to be able to monitor it with automatic tools.
 
 ##1. Config:
 By default it starts on port 7828 (STAT)

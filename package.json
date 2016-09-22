@@ -1,6 +1,6 @@
 {
   "name": "ha-status",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "HA Proxy status - http",
   "test": {
     "chai": "",

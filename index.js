@@ -1,6 +1,6 @@
 'use strict';
 
 // Load modules
-const Status = require('./status');
+const Status = require('./lib/status');
 
 module.exports = Status;
